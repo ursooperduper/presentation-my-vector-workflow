@@ -1,4 +1,6 @@
-presentation-my-vector-workflow
+# My Vector Workflow
 ===============================
 
-A quick presentation about my workflow for creating vector illustration.
+A quick presentation for Art Night at Hacker School about how I create vector illustrations.
+
+This presentation uses http://remarkjs.com.
